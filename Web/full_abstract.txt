@@ -1,0 +1,7 @@
+This project presents a compact robotic platform based on the traditional spinning top (“dreidel”) form factor, integrating real-time sensing, wireless communication, and motion control. 
+The system is powered by an ESP32 microcontroller and includes multiple sensors: VL53L0X ToF modules, a TF-Luna LiDAR, and an MPU6050 IMU. A pair of magnetically driven hammers enable controlled movement and directional actuation during spin.
+
+The design includes a custom circular PCB, optimized for size, power distribution, noise isolation, and modular testing. A self-diagnostic (BIST) system ensures that all subsystems are operational before activation. Live data is streamed via Wi-Fi to a web server interface, allowing real-time monitoring.
+
+Beyond the physical build, the project demonstrates the fusion of mechanical design, embedded software (Arduino/C++), and signal-based decision-making.
+The result is a smart, self-aware spinning top – an entry point into the world of tactile swarm robotics and autonomous micro-platforms.

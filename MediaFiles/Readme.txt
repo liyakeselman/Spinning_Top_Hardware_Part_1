@@ -1,0 +1,4 @@
+Directories:
+Images
+Videos
+OutputExample

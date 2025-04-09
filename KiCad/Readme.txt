@@ -1,0 +1,8 @@
+content:
+geometry.dxf
+KiCad_Settings_Configuration.pdf
+projectA.kicad_pcb
+projectA.kicad_pro
+projectA.kicad_sch
+Directory:
+Kicad_Folder_on_Liyas_Computer

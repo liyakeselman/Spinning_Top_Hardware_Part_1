@@ -1,0 +1,2 @@
+A compact, intelligent spinning top platform designed with embedded sensors, custom PCB, and Wi-Fi connectivity, enabling real-time control and data logging. 
+This project reimagines a traditional toy as a modular robotics prototype with tactical and educational potential.

@@ -1,0 +1,3 @@
+Directories:
+independent directory
+integrated directory
